@@ -1,0 +1,52 @@
+A ----> Anorastor
+
+B ----> Burabialosaurus
+
+C ----> Chontosaurus
+
+D ----> Donychitangus
+
+E ----> Eranosauras
+
+F ----> Fmatosaurus
+
+G ----> Gecechysturus
+
+H ----> Hgtrosaurus
+
+I ----> Ialerosaurus
+
+J ----> Jargachia
+
+K ----> Kurosauris
+
+L ----> Lnidasaurus
+
+M ----> Musithosaurus
+
+N ----> Nxaginosaurus
+
+O ----> Ongusaurus
+
+P ----> Perichosaurus
+
+Q ----> Qapeosyurus
+
+R ----> Rrinaosaurus
+
+S ----> Saurusaurus
+
+T ----> Thmathortatus
+
+U ----> Ushulomosaurus
+
+V ----> Vetthidos
+
+W ----> Wsconosaurus
+
+X ----> Xurterochus
+
+Y ----> Ysaurus
+
+Z ----> Zualosaurus
+
