@@ -44,6 +44,12 @@ A character-level Recurrent Neural Network (RNN) trained from scratch using NumP
 
 ---      
 
+## Visuals & Diagrams
+Gain a clear understanding of how character-level RNNs work — from step-by-step forward propagation to backpropagation through time.
+
+<p align="center"> <img src="images/rnn.png" width="700" alt="RNN Overview"> <br> <em><b>Basic RNN Structure</b> — An overview of a single RNN cell.</em> </p> <p align="center"> <img src="images/rnn_forward_sequence.png" width="700" alt="RNN Forward Sequence"> <br> <em><b>Unrolled RNN Forward Pass</b> — Visualizing sequence processing across time steps.</em> </p> <p align="center"> <img src="images/rnn_step_forward.png" width="700" alt="RNN Step Forward"> <br> <em><b>Forward Step</b> — Computation inside a single RNN time step.</em> </p> <p align="center"> <img src="images/rnn_cell_backprop.png" width="700" alt="RNN Backward Cell"> <br> <em><b>RNN Backward Pass</b> — Backpropagation through a single RNN cell.</em> </p> <p align="center"> <img src="images/rnn_cell_backward_3.png" width="700" alt="Backpropagation Through Time"> <br> <em><b>Backpropagation Through Time (BPTT)</b> — Gradient flow across step.</em> </p> <p align="center"> <img src="images/rnn_backward_1.png" width="700" alt="RNN Backward Overview"> <br> <em><b>Backward Flow</b> — Gradient calculation across sequence.</em> </p>
+---
+
 ## Directory Structure
 <pre> 
   char-rnn-dino-name-generator/ 
